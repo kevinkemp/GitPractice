@@ -1,0 +1,26 @@
+example commit message
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#
+# Changes to be committed:
+#   (use "git reset HEAD^1 <file>..." to unstage)
+#
+#	new file:   GitPractice/GitPractice.ncrunchsolution
+#	new file:   GitPractice/GitPractice.sln
+#	new file:   GitPractice/GitPractice.v11.suo
+#	new file:   GitPractice/GitPractice/Class1.cs
+#	new file:   GitPractice/GitPractice/GitPractice.csproj
+#	new file:   GitPractice/GitPractice/Properties/AssemblyInfo.cs
+#	new file:   GitPractice/GitPractice/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   GitPractice/GitPractice/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   GitPractice/GitPractice/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   GitPractice/GitPractice/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	g451mjyc.se1.txt
+
