@@ -1,0 +1,18 @@
+new commit #2
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 3 commits.
+#
+# Changes to be committed:
+#   (use "git reset HEAD^1 <file>..." to unstage)
+#
+#	new file:   GitPractice/GitPractice.ncrunchsolution.user
+#	modified:   GitPractice/GitPractice.v11.suo
+#	modified:   GitPractice/GitPractice/Class1.cs
+#	new file:   jaxkhpqr.osd.txt
+#	new file:   qc0saowf.v5y.txt
+#	new file:   urgsoslk.zj2.txt
+#
+
